@@ -1,4 +1,4 @@
-### 3.1 Core Principles of User Interface Design
+### Core Principles of User Interface Design
 
 User Interface (UI) design is centered around crafting intuitive, accessible, and aesthetically pleasing interfaces that enable users to interact with a product efficiently and effectively. Below are the core principles that guide effective UI design:
 
