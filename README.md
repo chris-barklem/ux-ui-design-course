@@ -30,15 +30,18 @@ A completely free beginning to end UX and UI Design course with resources
 3.6 Designing for Different Platforms (Mobile, Web, Desktop)  
 3.7 Responsive Design: Adapting to Multiple Screen Sizes  
 3.8 UI Patterns and Components
+3.9 Designing for Different Devices (Tablets, Smartwatches, Smart TVs)
+3.10 Designing with Different Input Methods (Touch, Mouse, Keyboard)
+3.11 Designing for Different User Types (Beginners, Power Users, Power Users)
 
 ## Module 4: Tools of the Trade
 4.1 Introduction to UX Design Tools  
 4.2 Figma: User Interface Design and Prototyping  
-4.3 Sketch: Wireframing and UI Design  
-4.4 Adobe XD: Design and Interaction Prototyping  
-4.5 InVision: Prototyping and Collaboration  
+4.3 Adobe XD: Design and Interaction Prototyping  
+4.4 Sketch (legacy software): Wireframing and UI Design  
+4.5 InVision (legacy software): Prototyping and Collaboration  
 4.6 Miro: Brainstorming and User Mapping  
-4.7 Best Practices for Handoff Between Design and Development (Zeplin, Avocode, etc.)
+4.7 Best Practices for Handoff Between Design and Development
 
 ## Module 5: User Research and Testing
 5.1 Setting Research Goals and Objectives  
